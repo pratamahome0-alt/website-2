@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Editing Konten",
+    "category": "Editing",
+    "description": "Potong, rapikan, dan tingkatkan kualitas video atau foto agar terlihat lebih menarik dan profesional."
+  },
+  {
+    "title": "Pembuatan Website",
+    "category": "Web",
+    "description": "Bangun website modern untuk portofolio, bisnis, toko online, atau landing page promosi."
+  },
+  {
+    "title": "Pengembangan Aplikasi",
+    "category": "App",
+    "description": "Buat aplikasi sederhana maupun fitur khusus yang membantu operasional bisnis Anda lebih efisien."
+  },
+  {
+    "title": "Branding Digital",
+    "category": "Desain",
+    "description": "Siapkan elemen visual dan konten digital yang konsisten untuk memperkuat identitas bisnis Anda."
+  }
+]
